@@ -21,6 +21,7 @@ class DemoPOC(POCBase):
     createDate = '20200731'  # 编写 PoC 的日期
     updateDate = ''  # PoC 更新的时间,默认和编写时间一样
     references = [
+        'https://medium.com/@m01e/nuxeo-unauthenticated-rce-analysis-2f88d412e176',
         'http://blog.orange.tw/2018/08/how-i-chained-4-bugs-features-into-rce-on-amazon.html',
         'http://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf']  # 漏洞地址来源,0day不用写
     name = 'Nuxeo Unauthenticated RCE'  # PoC 名称
