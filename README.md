@@ -1,5 +1,5 @@
 # pocsuite3-pocs
-Some PoCs based on Pocsuite3 framework written by myself.
+Backup those PoCs written by myself and based on Pocsuite3 framework.
 
 ## Usage
 
